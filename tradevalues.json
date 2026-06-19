@@ -242,7 +242,7 @@
   {
     "name": "Clover",
     "modelName": "CLOVER",
-    "rarity": "Gold",
+    "rarity": "Forgotten",
     "shiny": false,
     "value": 1,
     "demand": 5,
@@ -252,7 +252,7 @@
   {
     "name": "Shiny Clover",
     "modelName": "SHINY_CLOVER",
-    "rarity": "Gold",
+    "rarity": "Forgotten",
     "shiny": true,
     "value": 1,
     "demand": 5,
@@ -2882,7 +2882,7 @@
   {
     "name": "God Of Hyperdeath",
     "modelName": "GOD_HYPERDEATH",
-    "rarity": "Forgotten",
+    "rarity": "Deity",
     "shiny": false,
     "value": 1,
     "demand": 5,
@@ -2892,7 +2892,7 @@
   {
     "name": "Shiny God Of Hyperdeath",
     "modelName": "SHINY_GOD_HYPERDEATH",
-    "rarity": "Forgotten",
+    "rarity": "Deity",
     "shiny": true,
     "value": 1,
     "demand": 5,
@@ -4042,7 +4042,7 @@
   {
     "name": "Vampire Kris",
     "modelName": "VAMP_KRIS",
-    "rarity": "Legendary",
+    "rarity": "Unique",
     "shiny": false,
     "value": 1,
     "demand": 5,
@@ -4052,7 +4052,7 @@
   {
     "name": "Shiny Vampire Kris",
     "modelName": "SHINY_VAMP_KRIS",
-    "rarity": "Legendary",
+    "rarity": "Unique",
     "shiny": true,
     "value": 1,
     "demand": 5,
@@ -4062,7 +4062,7 @@
   {
     "name": "Frankenstein Susie",
     "modelName": "FRANK_SUSIE",
-    "rarity": "Common",
+    "rarity": "Legendary",
     "shiny": false,
     "value": 1,
     "demand": 5,
@@ -4072,7 +4072,7 @@
   {
     "name": "Shiny Frankenstein Susie",
     "modelName": "SHINY_FRANK_SUSIE",
-    "rarity": "Common",
+    "rarity": "Legendary",
     "shiny": true,
     "value": 1,
     "demand": 5,
@@ -4293,6 +4293,1286 @@
     "name": "Shiny Skeleton Tenna",
     "modelName": "SHINY_S_SUSIE",
     "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "The Clovers",
+    "modelName": "T_CLOVERS",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny The Clovers",
+    "modelName": "SHINY_T_CLOVERS",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Holiday Tenna",
+    "modelName": "H_TENNA",
+    "rarity": "Deity",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Holiday Tenna",
+    "modelName": "SHINY_H_TENNA",
+    "rarity": "Deity",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Festive Pipis",
+    "modelName": "F_PIPIS",
+    "rarity": "Forgotten",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Festive Pipis",
+    "modelName": "SHINY_F_PIPIS",
+    "rarity": "Forgotten",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Pumpkin Guardian",
+    "modelName": "P_GUARDIAN",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Pumpkin Guardian",
+    "modelName": "SHINY_P_GUARDIAN",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Tasque Duchess",
+    "modelName": "T_DUCHESS",
+    "rarity": "Deity",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Tasque Duchess",
+    "modelName": "SHINY_T_DUCHESS",
+    "rarity": "Deity",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Art Splatter Ralsei",
+    "modelName": "ART_S_RALSEI",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Art Splatter Ralsei",
+    "modelName": "SHINY_ART_S_RALSEI",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Tenna Jackson",
+    "modelName": "T_JACKSON",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Tenna Jackson",
+    "modelName": "SHINY_T_JACKSON",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Chef Lancer",
+    "modelName": "C_LANCER",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Chef Lancer",
+    "modelName": "SHINY_C_LANCER",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Circus Act",
+    "modelName": "C_ACT",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Circus Act",
+    "modelName": "SHINY_C_ACT",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Surfer Ralsei",
+    "modelName": "S_RAL",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Surfer Ralsei",
+    "modelName": "SHINY_S_RAL",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Lifeguard Susie",
+    "modelName": "LG_Sus",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Lifeguard Susie",
+    "modelName": "SHINY_LG_Sus",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Mighty Mo (BB-63)",
+    "modelName": "M_Mo",
+    "rarity": "Deity",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Mighty Mo (BB-63)",
+    "modelName": "SHINY_M_Mo",
+    "rarity": "Deity",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Tobias Foxington",
+    "modelName": "T_FOX",
+    "rarity": "Deity",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Tobias Foxington",
+    "modelName": "SHINY_T_FOX",
+    "rarity": "Deity",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Ceroba Ketsukane",
+    "modelName": "C_KET",
+    "rarity": "Forgotten",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Ceroba Ketsukane",
+    "modelName": "SHINY_C_KET",
+    "rarity": "Forgotten",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Flowey The Flower",
+    "modelName": "FT_FLOWER",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Flowey The Flower",
+    "modelName": "SHINY_FT_FLOWER",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Dalv",
+    "modelName": "DALV",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Dalv",
+    "modelName": "SHINY_DALV",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Zenith Martlet",
+    "modelName": "Z_MARTLET",
+    "rarity": "Forgotten",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Zenith Martlet",
+    "modelName": "SHINY_Z_MARTLET",
+    "rarity": "Forgotten",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "El Bailador",
+    "modelName": "EL_BAILADOR",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny El Bailador",
+    "modelName": "SHINY_EL_BAILADOR",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Decibat",
+    "modelName": "DECIBAT",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Decibat",
+    "modelName": "SHINY_DECIBAT",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Ceroba",
+    "modelName": "CEROBA",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Ceroba",
+    "modelName": "SHINY_CEROBA",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Axis",
+    "modelName": "AXIS",
+    "rarity": "Forgotten",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Axis",
+    "modelName": "SHINY_AXIS",
+    "rarity": "Forgotten",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Kitsune Queen",
+    "modelName": "K_QUEEN",
+    "rarity": "Deity",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Kitsune Queen",
+    "modelName": "SHINY_K_QUEEN",
+    "rarity": "Deity",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Vendy",
+    "modelName": "VENDY",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Vendy",
+    "modelName": "SHINY_VENDY",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Micro Froggit",
+    "modelName": "MICRO_FROGGIT",
+    "rarity": "Common",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Micro Froggit",
+    "modelName": "SHINY_MICRO_FROGGIT",
+    "rarity": "Common",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Bits & Bites",
+    "modelName": "B_BITES",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Bits & Bites",
+    "modelName": "SHINY_B_BITES",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Guardener",
+    "modelName": "GUARDENER",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Guardener",
+    "modelName": "SHINY_GUARDENER",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Martlet",
+    "modelName": "MARTLET",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Martlet",
+    "modelName": "SHINY_MARTLET",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "North Star",
+    "modelName": "N_STAR",
+    "rarity": "Forgotten",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny North Star",
+    "modelName": "SHINY_N_STAR",
+    "rarity": "Forgotten",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Honeydew Shopkeeper",
+    "modelName": "HONEYDEW_SHOPKEEPER",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Honeydew Shopkeeper",
+    "modelName": "SHINY_HONEYDEW_SHOPKEEPER",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Rodney",
+    "modelName": "RODNEY",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Rodney",
+    "modelName": "SHINY_RODNEY",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Slurpy",
+    "modelName": "SLURPY",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Slurpy",
+    "modelName": "SHINY_SLURPY",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Dust Bunny",
+    "modelName": "D_BUNNY",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Dust Bunny",
+    "modelName": "SHINY_D_BUNNY",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Mo",
+    "modelName": "MO",
+    "rarity": "Epic",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Mo",
+    "modelName": "SHINY_MO",
+    "rarity": "Epic",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Dunebud",
+    "modelName": "DUNEBUD",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Dunebud",
+    "modelName": "SHINY_DUNEBUD",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Sweet Corn",
+    "modelName": "S_CORN",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Sweet Corn",
+    "modelName": "SHINY_S_CORN",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Sir Slither",
+    "modelName": "S_SLITHER",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Sir Slither",
+    "modelName": "SHINY_S_SLITHER",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Macro Froggit",
+    "modelName": "M_FROGGIT",
+    "rarity": "Common",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Macro Froggit",
+    "modelName": "SHINY_M_FROGGIT",
+    "rarity": "Common",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Starlo",
+    "modelName": "STARLO",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Starlo",
+    "modelName": "SHINY_STARLO",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Ace",
+    "modelName": "ACE",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Ace",
+    "modelName": "SHINY_ACE",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Flower Girl",
+    "modelName": "F_GIRL",
+    "rarity": "Common",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Flower Girl",
+    "modelName": "SHINY_F_GIRL",
+    "rarity": "Common",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Moray",
+    "modelName": "MORAY",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Moray",
+    "modelName": "SHINY_MORAY",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Rorrim",
+    "modelName": "RORRIM",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Rorrim",
+    "modelName": "SHINY_RORRIM",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Cactony",
+    "modelName": "CACTONY",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Cactony",
+    "modelName": "SHINY_CACTONY",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Penilla",
+    "modelName": "PENILLA",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Penilla",
+    "modelName": "SHINY_PENILLA",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Flier",
+    "modelName": "FLIER",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Flier",
+    "modelName": "SHINY_FLIER",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Mooch",
+    "modelName": "MOOCH",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Mooch",
+    "modelName": "SHINY_MOOCH",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Know Cone",
+    "modelName": "K_CONE",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Know Cone",
+    "modelName": "SHINY_K_CONE",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Miner NPC",
+    "modelName": "M_NPC",
+    "rarity": "Common",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Miner NPC",
+    "modelName": "SHINY_M_NPC",
+    "rarity": "Common",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Frostermit",
+    "modelName": "FROSTERMIT",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Frostermit",
+    "modelName": "SHINY_FROSTERMIT",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Ed",
+    "modelName": "ED",
+    "rarity": "Legendary",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Ed",
+    "modelName": "SHINY_ED",
+    "rarity": "Legendary",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Bowll",
+    "modelName": "BOWLL",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Bowll",
+    "modelName": "SHINY_BOWLL",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Dina",
+    "modelName": "DINA",
+    "rarity": "Epic",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Dina",
+    "modelName": "SHINY_DINA",
+    "rarity": "Epic",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Telly-Vis",
+    "modelName": "T_VIS",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Telly-Vis",
+    "modelName": "SHINY_T_VIS",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Trihecta",
+    "modelName": "TRIHECTA",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Trihecta",
+    "modelName": "SHINY_TRIHECTA",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Jandroid",
+    "modelName": "JANDROID",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Jandroid",
+    "modelName": "SHINY_JANDROID",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Goosic",
+    "modelName": "GOOSIC",
+    "rarity": "Gold",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Goosic",
+    "modelName": "SHINY_GOOSIC",
+    "rarity": "Gold",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Chujin Ketsukane",
+    "modelName": "C_KET",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Chujin Ketsukane",
+    "modelName": "SHINY_C_KET",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Kanako Ketsukane",
+    "modelName": "K_KET",
+    "rarity": "Unique",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Kanako Ketsukane",
+    "modelName": "SHINY_K_KET",
+    "rarity": "Unique",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Insomnitot",
+    "modelName": "INSOMNITOT",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Insomnitot",
+    "modelName": "SHINY_INSOMNITOT",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Sousborg",
+    "modelName": "SOUSBORG",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Sousborg",
+    "modelName": "SHINY_SOUSBORG",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Crispy Scroll",
+    "modelName": "C_SCROLL",
+    "rarity": "Uncommon",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Crispy Scroll",
+    "modelName": "SHINY_C_SCROLL",
+    "rarity": "Uncommon",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Mail Whale",
+    "modelName": "M_WHALE",
+    "rarity": "Epic",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Mail Whale",
+    "modelName": "SHINY_M_WHALE",
+    "rarity": "Epic",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Blackjack",
+    "modelName": "BLACKJACK",
+    "rarity": "Epic",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Blackjack",
+    "modelName": "SHINY_BLACKJACK",
+    "rarity": "Epic",
+    "shiny": true,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Meta Flowey",
+    "modelName": "M_FLOWEY",
+    "rarity": "Forgotten",
+    "shiny": false,
+    "value": 1,
+    "demand": 5,
+    "status": "Stable",
+    "lastUpdated": "10/3/2026"
+  },
+  {
+    "name": "Shiny Meta Flowey",
+    "modelName": "SHINY_M_FLOWEY",
+    "rarity": "Forgotten",
     "shiny": true,
     "value": 1,
     "demand": 5,
